@@ -1,0 +1,32 @@
+==================
+Return statements
+==================
+
+%doc: books
+
+# This is a comment
+foo: bar baz
+foobar: bar
++ bar
+
+
+bar:
++ bar
++ bar
+
+---
+
+(database 
+  (field 
+    name: (key)
+    value: (value))
+  (comment)
+  (field 
+    name: (key)
+    value: (value))
+  (field 
+    name: (key)
+    value: (value))
+  (field 
+    name: (key)
+    value: (value)))
