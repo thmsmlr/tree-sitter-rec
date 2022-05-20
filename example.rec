@@ -5,9 +5,9 @@ foo: bar baz
 foobar: bar
 + bar
 
+foo: foo
 
 bar:
-+ bar
 + bar
 
 
